@@ -1,0 +1,11 @@
+{
+  "name": "opatrickvico/history",
+  "description": "Class that implements the memento pattern poorly, allowing for undo/redo functionality;",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "History\\": "src/"
+    }
+  },
+  "require": {}
+}
